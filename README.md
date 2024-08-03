@@ -32,3 +32,10 @@ A visual representation of the clusters, captured from the Notebook.
 *  **Product/Service Improvement**: Understanding the diverse feedback in Cluster 1 can provide insights into product/service improvements to cater to a wider customer base.
 
 The results presented here provide a preliminary understanding of customer segments based on income and feedback. To gain deeper insights and enhance the model's predictive power, incorporating additional customer attributes.
+## Notes
+This repository contains two primary files:
+
+1. The Jupyter Notebook file <code>**Segmenting Customers Based on Income and Feedback.ipynb**</code> is available in this repository and provides a detailed walkthrough of the data analysis process, including code, visualizations, and explanations..
+2. Also, the PDF file <code>**Segmenting Customers Based on Income and Feedback.pdf**</code> is available in this repository and offers a concise and structured report summarizing the key findings and insights from the analysis.
+
+Feel free to explore both files for a comprehensive understanding of the customer segmentation project.
