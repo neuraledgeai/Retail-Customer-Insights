@@ -36,6 +36,6 @@ The results presented here provide a preliminary understanding of customer segme
 This repository contains two primary files:
 
 1. The Jupyter Notebook file <code>**Segmenting Customers Based on Income and Feedback.ipynb**</code> is available in this repository and provides a detailed walkthrough of the data analysis process, including code, visualizations, and explanations..
-2. Also, the PDF file <code>**Segmenting Customers Based on Income and Feedback.pdf**</code> is available in this repository and offers a concise and structured report summarizing the key findings and insights from the analysis.
+2. Also, the PDF file <code>**Report.pdf**</code> is available in this repository and offers a concise and structured report summarizing the key findings and insights from the analysis.
 
 Feel free to explore both files for a comprehensive understanding of the customer segmentation project.
