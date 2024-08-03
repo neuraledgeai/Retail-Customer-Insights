@@ -1,5 +1,5 @@
 # Segmenting Customers based on Income and Feedback
-Understanding customer behavior is crucial for businesses to tailor their strategies effectively. This analysis focuses on segmenting customers based on two key factors: income and feedback. By applying K-Means clustering to a dataset containing customer income and feedback information, we aim to identify distinct customer groups. These segments can provide valuable insights for targeted marketing, product development, and customer retention initiatives.
+Understanding customer behavior is crucial for businesses to tailor their strategies effectively. This analysis focuses on segmenting customers based on two key factors: income and feedback. By applying K-Means clustering to a [dataset](https://www.kaggle.com/datasets/bhavikjikadara/retail-transactional-dataset/data) containing customer income and feedback information, we aim to identify distinct customer groups. These segments can provide valuable insights for targeted marketing, product development, and customer retention initiatives.
 
 ## Data Preparation
 ### Import
